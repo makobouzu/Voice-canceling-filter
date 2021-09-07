@@ -1,0 +1,9 @@
+.env
+__pycache__/
+pretrained_models/
+input/
+output/
+.DS_Store
+*.mp4
+.git/
+venv/
